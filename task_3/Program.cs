@@ -1,5 +1,3 @@
-﻿using System.Xml.Linq;
-
 namespace task_3
 {
   class Instructor
